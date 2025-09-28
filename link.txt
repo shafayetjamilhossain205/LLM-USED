@@ -1,0 +1,7 @@
+https://github.com/langchain-ai/langchain?utm_source=chatgpt.com
+https://github.com/run-llama/llama_index?utm_source=chatgpt.com
+https://github.com/deepset-ai/haystack?utm_source=chatgpt.com
+https://github.com/huggingface/transformers?utm_source=chatgpt.com
+https://github.com/pytorch/pytorch?utm_source=chatgpt.com
+https://github.com/tensorflow/tensorflow?utm_source=chatgpt.com
+https://github.com/deepset-ai/haystack?utm_source=chatgpt.com
